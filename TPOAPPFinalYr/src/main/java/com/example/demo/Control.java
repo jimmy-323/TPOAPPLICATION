@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 //Working Sucessfully!!!
+
+//Secound Commit!!!
 @Controller
 public class Control {
 	
